@@ -2,18 +2,18 @@
 
 > 基于 [AutoJs6](https://github.com/SuperMonster003/AutoJs6) 深度扩展的 Android 自动化远程管理与调试平台  
 > 集设备接入、脚本库管理、任务调度、远程控制、UI 控件分析、AI 辅助调试、Python 插件扩展于一体。
+> app 免费
 ## 相关链接
 
 - AutoJs6 项目来源：[SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6)
-- 百度网盘下载：[AutoJsQ](https://pan.baidu.com/s/5ErlVHfsOKJsmNP8NsKVkhA)
+- 飞书文档：[飞书](https://ncny0qm6pv3p.feishu.cn/docx/SeWwdMgFJolku6xvOStc8ZxOngg?from=from_copylink )
 - 博主主页：[哔哩哔哩 @519965290](https://space.bilibili.com/519965290)
 - QQ：2106359814
 - 交流群：1121454194
 ## 付费情况
 - 免费：https://github.com/shiyaaini/AutoJsQ/releases/tag/v1.0.8
-- 付费：2.0以上控制台会进行收费，联系我免费试用30天。
-     暂时定价：10元/台，永久授权，不更换硬件的情况下，Android 免费
-     不更换电脑硬件的情况下，理论可以永久使用。
+- 付费：价格以当前价格为准（2026/11/5：5元/永久，app免费）
+- 一次性卡密
 
 ## 项目简介
 
@@ -226,7 +226,6 @@ AutoJsQ/
 ## 相关链接
 
 - AutoJs6 项目来源：[SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6)
-- 百度网盘下载：[AutoJsQ](https://pan.baidu.com/s/5ErlVHfsOKJsmNP8NsKVkhA)
 - 博主主页：[哔哩哔哩 @519965290](https://space.bilibili.com/519965290)
 
 ## 说明
