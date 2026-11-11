@@ -10,6 +10,7 @@
 - 博主主页：[哔哩哔哩 @519965290](https://space.bilibili.com/519965290)
 - QQ：2106359814
 - 交流群：1121454194
+- 购买地址：https://wzyp.cn/shop/VV2ZD3SB
 ## 付费情况
 - 免费：https://github.com/shiyaaini/AutoJsQ/releases/tag/v1.0.8
 - 付费：价格以当前价格为准（2026/11/5：5元/永久，app免费）
